@@ -1,5 +1,7 @@
 # Ruby INI file parser - fun exercise
 
+- This was a fun exercise to parse a PHP INI file using Ruby.
+
 ## Design choices
 
 - Uses lazy evaluation to create the methods for the queries (method_missing) for returning the object quickly.
